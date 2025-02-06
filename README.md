@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nika
 - 👀 I’m interested in Machine Learning/AI, Data Engineering and Backend Development
 - 🌱 I’m currently learning Node.Js
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via Email: N.kapanadze@liverpool.ac.uk
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: My Background is Medical Technology. 
