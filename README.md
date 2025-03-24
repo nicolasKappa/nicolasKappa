@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at Unviersity of Liverpool MSc Computer Science
 - 📫 Reach me via Email: sgnkapan@liverpool.ac.uk
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: My Background is Medical Technology. 
+- ⚡ Fun fact: My Background is Medicine. 
 
 <!---
 nicolasKappa/nicolasKappa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
